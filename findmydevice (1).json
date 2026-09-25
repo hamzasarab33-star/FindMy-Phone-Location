@@ -1,0 +1,23 @@
+{
+  "version" : 3,
+  "ads-enabled": true,
+  "ad-network" : "admob",
+  "admob": {
+    "banner1" : "ca-app-pub-3940256099942544/9214589741",
+    "banner2" : "ca-app-pub-3940256099942544/9214589741",
+    "interstitial1" : "ca-app-pub-3940256099942544/1033173712",
+    "interstitial2" : "ca-app-pub-3940256099942544/1033173712",
+    "native1" : "ca-app-pub-3940256099942544/2247696110",
+    "native2" : "ca-app-pub-3940256099942544/2247696110",
+    "appopen" : "ca-app-pub-3940256099942544/9257395921"
+  },
+  "fan":{
+    "banner1" : "IMG_16_9_APP_INSTALL#",
+    "banner2" : "IMG_16_9_APP_INSTALL#",
+    "interstitial1" : "CAROUSEL_IMG_square_link#",
+    "interstitial2" : "CAROUSEL_IMG_square_link#",
+    "native1" : "IMG_16_9_APP_INSTALL#",
+    "native2" : "IMG_16_9_APP_INSTALL#"
+  }
+}
+
