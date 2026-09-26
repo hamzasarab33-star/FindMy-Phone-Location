@@ -1,7 +1,7 @@
 {
   "version" : 7,
   "ads-enabled": true,
-  "ad-network" : "fan",
+  "ad-network" : "admob",
   "admob": {
     "banner1" : "ca-app-pub-2533611463654386/5171298130",
     "banner2" : "ca-app-pub-2533611463654386/7691018215",
