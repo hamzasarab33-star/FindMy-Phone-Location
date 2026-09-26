@@ -12,12 +12,12 @@
     "appopen" : "ca-app-pub-2533611463654386/1782806756"
   },
   "fan":{
-    "banner1" : "38561046540209305_38561068590207100",
-    "banner2" : "38561046540209305_38561288706851755",
-    "interstitial1" : "38561046540209305_38561071076873518",
-    "interstitial2" : "38561046540209305_38561291753518117",
-    "native1" : "38561046540209305_38561293943517898",
-    "native2" : "38561046540209305_38561297210184238"
+    "banner1" : "IMG_16_9_APP_INSTALL#",
+    "banner2" : "IMG_16_9_APP_INSTALL#",
+    "interstitial1" : "CAROUSEL_IMG_square_link#",
+    "interstitial2" : "CAROUSEL_IMG_square_link#",
+    "native1" : "IMG_16_9_APP_INSTALL#",
+    "native2" : "IMG_16_9_APP_INSTALL#"
   }
 }
 
